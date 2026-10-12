@@ -12,17 +12,17 @@ Stopped: Activity has ceased with no signs of recovery or further engagement.
 Cyclical: Predictable; repeated patterns of activity occurring at fixed intervals (e.g.; quarterly or annually).
 Irregular:Highly variable and unpredictable patterns of activity that do not follow any discernible trend or cycle."
 Currentstatus;yes/no;"If no commits in the last 6 months as of 2025-09-30 (i.e.; last commit before April 1; 2025). Mark Inactive ; else Active"
-RecentThemes;Feature development/ Bug fixes/ Documentation updates/ Dependency updates/ Release/ Security patches/ Automated bot contributions/ Other;"Top two themes from the most recent 10 commits (or fewer if total commits in project < 10). 
+RecentThemes;Feature development/ Bug fixes/ Documentation updates/ Dependency updates/ Release/ Security patches/ Automated bot contributions/ Other;"Top two themes from the most recent 10 commits (or fewer if total commits in project < 10).
 Possible themes of commits/commit messages include:
 
-    Feature development
-    Bug fixes
-    Documentation updates
-    Dependency updates
-    Release (For releases or release preparation)
-    Security patches
-    Automated bot contributions (For any bot upddatese.g.; Dependabot updates; CI bots; formatting bots)
-    Other (for anything not covered in the list)
+Feature development
+Bug fixes
+Documentation updates
+Dependency updates
+Release (For releases or release preparation)
+Security patches
+Automated bot contributions (For any bot upddatese.g.; Dependabot updates; CI bots; formatting bots)
+Other (for anything not covered in the list)
 "
 ;;
 ;;
