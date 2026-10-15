@@ -109,7 +109,7 @@ You can map names/githubIDs for each NetID in [netids.md](./netID.md).
 |sydlwils|jzr266|
 |lsantucc|pstorch1|
 |jbronyah|kyandall|
-|lwang111|ccough13|
+|lwang111|ccoughl3|
 |wch356|jvijayak|
 |ltipto11|hneel|
 |wknepp|aalkafou|
