@@ -1,1 +1,6 @@
-Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;80.0;100.0;0.733;1.0;4;4;Disagreements involved Limited vs Yes and Yes vs No, all were resolved after discussion.
+WhyRecovered;90.0;100.0;NA;NA;2;2;Different descriptions of the reasons for resumed activity required discussion to align.
+ActivityPattern;90.0;100.0;0.880;1.0;2;2;Disagreements involved Irregular vs U-shaped and Declining vs Irregular, examples/evidence resolved both.
+Currentstatus;90.0;100.0;0.800;1.0;2;2;Both disagreements were Active vs Inactive classifications and were resolved after discussion.
+RecentThemes;75.0;100.0;NA;NA;5;5;Disagreements centered on selecting and prioritizing theme labels, all were resolved after discussion.
